@@ -1,0 +1,2 @@
+nome = 'bertuleza'
+print(nome)
